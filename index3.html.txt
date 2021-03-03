@@ -1,0 +1,10 @@
+<html>
+<head>
+<title> index 3 html page</title>
+</head>
+<body>
+<h1> its just like another webpage</h1>
+<p>always make different webpages </p>
+<h2>prove that you did it</h2>
+</body>
+</html>
